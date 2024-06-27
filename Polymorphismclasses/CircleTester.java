@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 
-public class CircleTester {
+public class CircleTester{
 	public static void showCenter(Circle2 shape) {
 		System.out.println("For this " + shape.getNamemethod() + " the center is at " + shape.getCenter() + ".");
 	}
