@@ -1,9 +1,9 @@
-public class Oval2 extends Circle2 {
+public class Oval extends Circle {
 	// instance variables
 	private int radius2;
 	
 	// Constructor for objects of class Oval
-	public Oval2(int x, int y, int rad1, int rad2){
+	public Oval(int x, int y, int rad1, int rad2){
 		// call superclass
 		super(x, y, rad1);
 		
@@ -11,7 +11,7 @@ public class Oval2 extends Circle2 {
 		radius2 = rad2;
 	}
 	
-	public int getRadius2(){
+	public int getRadius(){
 		return radius2;
 	}
 	
