@@ -1,4 +1,4 @@
-public class Circle2 {
+public class Circle{
 	// instance variables
 	private int x;
 	private int y;
