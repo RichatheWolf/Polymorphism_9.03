@@ -5,7 +5,7 @@ public class Circle{
 	private int radius;
 	
 	// Constructor for objects of class Circle
-	public Circle2(int p_x, int p_y, int r) {
+	public Circle(int p_x, int p_y, int r) {
 		// initialize instance variables
 		x = p_x;
 		y = p_y;
